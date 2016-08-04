@@ -5,6 +5,8 @@
 this group meets every other Wednesday at [The Base]. meeting notes
 can be found [here](/meeting_notes/).
 
+[The Base]: https://thebasebk.org/
+
 ### license
 
 <p xmlns:dct="http://purl.org/dc/terms/">
